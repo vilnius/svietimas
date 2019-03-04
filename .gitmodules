@@ -1,3 +1,6 @@
 [submodule "darzeliai"]
 	path = darzeliai
 	url = https://github.com/vilnius/darzeliai.git
+[submodule "mokyklos"]
+	path = mokyklos
+	url = https://github.com/vilnius/mokyklos.git
