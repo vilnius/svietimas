@@ -1,0 +1,3 @@
+[submodule "darzeliai"]
+	path = darzeliai
+	url = https://github.com/vilnius/darzeliai.git
